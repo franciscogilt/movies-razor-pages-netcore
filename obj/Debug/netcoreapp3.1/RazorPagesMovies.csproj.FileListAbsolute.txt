@@ -170,3 +170,8 @@ C:\Users\FRANCISCO TAS\Desktop\repos\RazorPagesMovies\obj\Debug\netcoreapp3.1\st
 C:\Users\FRANCISCO TAS\Desktop\repos\RazorPagesMovies\obj\Debug\netcoreapp3.1\RazorPagesMovies.dll
 C:\Users\FRANCISCO TAS\Desktop\repos\RazorPagesMovies\obj\Debug\netcoreapp3.1\RazorPagesMovies.pdb
 C:\Users\FRANCISCO TAS\Desktop\repos\RazorPagesMovies\obj\Debug\netcoreapp3.1\RazorPagesMovies.genruntimeconfig.cache
+C:\Users\FRANCISCO TAS\Desktop\repos\RazorPagesMovies\obj\Debug\netcoreapp3.1\Razor\PagesMovies\Create.cshtml.g.cs
+C:\Users\FRANCISCO TAS\Desktop\repos\RazorPagesMovies\obj\Debug\netcoreapp3.1\Razor\PagesMovies\Delete.cshtml.g.cs
+C:\Users\FRANCISCO TAS\Desktop\repos\RazorPagesMovies\obj\Debug\netcoreapp3.1\Razor\PagesMovies\Details.cshtml.g.cs
+C:\Users\FRANCISCO TAS\Desktop\repos\RazorPagesMovies\obj\Debug\netcoreapp3.1\Razor\PagesMovies\Edit.cshtml.g.cs
+C:\Users\FRANCISCO TAS\Desktop\repos\RazorPagesMovies\obj\Debug\netcoreapp3.1\Razor\PagesMovies\Index.cshtml.g.cs
