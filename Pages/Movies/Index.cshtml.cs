@@ -8,7 +8,7 @@ using Microsoft.EntityFrameworkCore;
 using RazorPagesMovies.Data;
 using RazorPagesMovies.Models;
 
-namespace RazorPagesMovies.PagesMovies
+namespace RazorPagesMovies.Movies
 {
     public class IndexModel : PageModel
     {

@@ -8,7 +8,7 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 using RazorPagesMovies.Data;
 using RazorPagesMovies.Models;
 
-namespace RazorPagesMovies.PagesMovies
+namespace RazorPagesMovies.Movies
 {
     public class CreateModel : PageModel
     {
