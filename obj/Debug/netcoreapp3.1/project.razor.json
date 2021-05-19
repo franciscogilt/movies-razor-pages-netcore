@@ -14402,8 +14402,8 @@
   "RootNamespace": "RazorPagesMovies",
   "Documents": [
     {
-      "FilePath": "c:\\Users\\FRANCISCO TAS\\Desktop\\repos\\RazorPagesMovies\\PagesMovies\\Details.cshtml",
-      "TargetPath": "PagesMovies\\Details.cshtml",
+      "FilePath": "c:\\Users\\FRANCISCO TAS\\Desktop\\repos\\RazorPagesMovies\\Pages\\Movies\\Edit.cshtml",
+      "TargetPath": "Pages\\Movies\\Edit.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -14412,18 +14412,23 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\FRANCISCO TAS\\Desktop\\repos\\RazorPagesMovies\\PagesMovies\\Index.cshtml",
-      "TargetPath": "PagesMovies\\Index.cshtml",
+      "FilePath": "c:\\Users\\FRANCISCO TAS\\Desktop\\repos\\RazorPagesMovies\\Pages\\Movies\\Details.cshtml",
+      "TargetPath": "Pages\\Movies\\Details.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\FRANCISCO TAS\\Desktop\\repos\\RazorPagesMovies\\PagesMovies\\Edit.cshtml",
-      "TargetPath": "PagesMovies\\Edit.cshtml",
+      "FilePath": "c:\\Users\\FRANCISCO TAS\\Desktop\\repos\\RazorPagesMovies\\Pages\\Movies\\Create.cshtml",
+      "TargetPath": "Pages\\Movies\\Create.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\FRANCISCO TAS\\Desktop\\repos\\RazorPagesMovies\\PagesMovies\\Create.cshtml",
-      "TargetPath": "PagesMovies\\Create.cshtml",
+      "FilePath": "c:\\Users\\FRANCISCO TAS\\Desktop\\repos\\RazorPagesMovies\\Pages\\Movies\\Index.cshtml",
+      "TargetPath": "Pages\\Movies\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\FRANCISCO TAS\\Desktop\\repos\\RazorPagesMovies\\Pages\\Movies\\Delete.cshtml",
+      "TargetPath": "Pages\\Movies\\Delete.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -14434,11 +14439,6 @@
     {
       "FilePath": "c:\\Users\\FRANCISCO TAS\\Desktop\\repos\\RazorPagesMovies\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Pages\\Shared\\_ValidationScriptsPartial.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\FRANCISCO TAS\\Desktop\\repos\\RazorPagesMovies\\PagesMovies\\Delete.cshtml",
-      "TargetPath": "PagesMovies\\Delete.cshtml",
       "FileKind": "mvc"
     },
     {
